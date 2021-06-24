@@ -12,6 +12,11 @@
     height: 10%;
     margin: 2% 0;
 }
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 4px;
+  }
 /*body {
     background-color: #5a8054;
     color: white;
