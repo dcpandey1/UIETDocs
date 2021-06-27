@@ -7,6 +7,15 @@
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
 }
+.mainheader nav ul li {
+    list-style-type: none;
+    margin: 0 auto;
+    /* float: left; */
+    align-items: unset;
+    display: inline-block;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    /* font-size: 1.5rem; */
+}
 .mainheader img {
     width: 45%;
     height: 10%;

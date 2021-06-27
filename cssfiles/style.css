@@ -1,39 +1,23 @@
 h2{
-  
-  
  background-color: #FEFFED;
  padding: 30px 35px;
  margin: -10px -50px;
  text-align:center;
  border-radius: 10px 10px 0 0;
 }
-
-.muddhu img{
-  /* background-color: sandybrown; */
-  border-radius: 10px;
-  border-color: rgb(46, 48, 139);
-  align-items: center;
-}
-
-
- 
 hr{
  margin: 10px -50px;
- 
  margin-left: auto;
  margin-right: auto;
  border: 0;
  border-top: 1px solid #ccc;
  margin-bottom: 40px;
 }
- 
 div.container{
  width:900px;
  height: 610px;
  margin:35px auto;
- /* font-family: 'Raleway', sans-serif; */
 }
- 
 div.main{
  width: 300px;
  padding: 10px 50px 25px;
@@ -43,7 +27,6 @@ div.main{
  float:left;
  margin-top:50px;
 }
- 
 input[type=text],input[type=password]{
  width: 100%;
  height: 40px;
@@ -55,26 +38,21 @@ input[type=text],input[type=password]{
  font-size: 16px;
  border-radius: 5px;
 }
-
 label{
  color: #464646;
  text-shadow: 0 1px 0 #fff;
  font-size: 14px;
  font-weight: bold;
 }
-
 center{
  font-size:15px;
 }
-
 .note{
  color:red;
 }
- 
 .valid{
  color:green;
 }
-
 .back{
  text-decoration: none;
  border: 1px solid rgb(0, 143, 255);
@@ -83,7 +61,6 @@ center{
  border-radius: 2px;
  color: black;
 }
- 
 input[type=button]{
  font-size: 16px;
  background: linear-gradient(#00ff00 5%, #7f88ff 100%);
@@ -96,31 +73,21 @@ input[type=button]{
  padding: 10px 0;
  outline:none;
 }
-/* .gallery a:hover{
-  background:white;
-} */
- 
 input[type=button]:hover{
  background: linear-gradient(#7ffff9 5%, #ff0000 100%);
 }
-
 .fugo{
  float:right;
 }
 body{
   scroll-behavior: smooth;
-	/* background-color:#5a8a54; */
   background-color: black;
 	color: white;
 	font-size: 100%; 
-	/*Font Size is 14 */
-	/* font-family: 'Baloo Bhai 2', cursive; */
 	line-height: 1.5;
 	text-align: left;
 }
-
 div.gallery a{
-  /* background-color: rgb(49, 2, 2); */
   background-color: rgb(128, 0, 0);
     margin: 3px;
     border: 1px solid #ccc;
@@ -130,15 +97,10 @@ div.gallery a{
     text-align: center;
     padding: 10px;
 }
-
-
 div.gallery a:hover {
     border: 1px solid #777;
 }
-
-
 div.gallery img {
-  /* webkitbox */
     width: 100%;
     height: auto;
 }
@@ -163,20 +125,17 @@ a:hover, a:active{
 background-color: #CF5C3F;
 color:#fff;
 }
-
 .body{
 margin: 0 auto;
 width: 70%;	 
 clear: both;
 }
 .mainheader img{
-  /* webkitbox */
 	width: 15%;
 	height: 10%;
 	margin: 2% 0;
 }
 .mainheader nav{
-/* background-color: rgb(49, 2, 2); */
 background-color: rgb(128, 0, 0);
 height: 40px;
 line-height: 40px;
@@ -193,12 +152,9 @@ list-style-type: none;
 margin: 0 auto;
 float: left;
 display: inline-block;
-/* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-/* font-size: 1.5rem; */
 }
 .mainheader nav a:link, .mainheader nav a:visited{
 color: #fff;
-
 padding: 10px 25px;
 height: 20px;
 }
@@ -220,14 +176,12 @@ height: 20px;
 	border-radius: 5px;
 -moz-border-radius: 5px;
 -webkit-border-radius: 5px;
-
 }
 .mainContent{
 	line-height: 25px;
 	border-radius: 5px;
 -moz-border-radius: 5px;
 -webkit-border-radius: 5px;
-
 }
 .Content{
 	width:100%;
@@ -235,10 +189,8 @@ height: 20px;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 -webkit-border-radius: 5px;
-
 }
 .topContent{
-	/* background-color: rgb(49, 2, 2); */
   background-color: rgb(128, 0, 0);
 line-height: 25px;
 border-radius: 5px;
@@ -246,11 +198,8 @@ border-radius: 5px;
 -webkit-border-radius: 5px;
 padding: 3% 5%;
 margin-top: 2%;
-	
-
 }
 .bottomContent{
-/* background-color: rgb(49, 2, 2); */
 background-color: rgb(128, 0, 0);
 line-height: 25px;
 border-radius: 5px;
@@ -258,7 +207,6 @@ border-radius: 5px;
 -webkit-border-radius: 5px;
 padding: 3% 5%;
 margin-top: 2%;
-	
 }
 .top-sidebar{
 width: 21%;
@@ -267,9 +215,7 @@ background-color: #cab;
 border-radius: 5px;
 -moz-border-radius: 5px;
 -webkit-border-radius: 5px;
-
 padding: 2% 3%;
-
 margin: 2% 0 2% 3%;
 }
 .middle-sidebar{
@@ -282,8 +228,6 @@ border-radius: 5px;
 margin-left: 3%;
 padding: 2% 3%;
 margin-bottom: 2%;
-
-
 }
 .buttom-sidebar{
 width: 21%;
@@ -302,7 +246,6 @@ float: left;
 border-radius: 5px;
 -moz-border-radius: 5px;
 -webkit-border-radius: 5px;
-/* background-color: rgb(49, 2, 2); */
 background-color: rgb(128, 0, 0);
 margin-top: 6%;
 margin-bottom: 2%;
@@ -335,21 +278,17 @@ margin-bottom: 2%;
 	color: #999;
 	font-size: 90%;
 }
-
-
 * {box-sizing:border-box}
 body {font-family: Verdana,sans-serif;}
-.iambrpslides {display:none}
-
-/* Slideshow container */
+.iambrpslides 
+{
+  display:none
+}
 .slideshow-container {
   max-width: 1280px;
   position: relative;
   margin: auto;
 }
-
-
-/* Number text (1/3 etc) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
@@ -357,8 +296,6 @@ body {font-family: Verdana,sans-serif;}
   position: absolute;
   top: 0;
 }
-
-/* The dots/bullets/indicators */
 .dot {
   height: 13px;
   width: 13px;
@@ -368,11 +305,9 @@ body {font-family: Verdana,sans-serif;}
   display: inline-block;
   transition: background-color 0.6s ease;
 }
-
 .active {
   background-color: #717171;
 }
-
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
@@ -380,17 +315,14 @@ body {font-family: Verdana,sans-serif;}
   animation-name: fade;
   animation-duration: 1.5s;
 }
-
 @-webkit-keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
 }
-
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
 }
-
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
@@ -398,11 +330,7 @@ body {font-family: Verdana,sans-serif;}
 }
 img{
   width: 100%;
-  
-  
-
 	height: 350px;
-
 }
 /* For Contributer table */
 table {
@@ -411,77 +339,14 @@ table {
   width: 100%;
   background-color: aqua;
 }
-
 td, th {
   border: 1px solid #000000;
   text-align: left;
   padding: 8px;
 }
-
 tr{
   background-color: rgb(128,0,0);
 }
 #haid{
     background-color: rgb(7, 105, 105);
-}
-/* For Contribute Button */
-
-
-/* Dropdowns */
-.dropbtn {
-  background-color: rgb(128, 0, 0);
-  color: white;
-  border: 1px solid rgb(255, 255, 255);
-  width: 140px;
-  
-  border-radius: 20px;
-  padding: 13px;
-  margin: 3px;
-  font-size: 16px;
-  /* border: none; */
-  /* float: left; */
-} 
-
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  /* padding: 10px; */
-  background-color: transparent;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: rgb(251, 251, 251);
-  background-color: rgb(128, 0, 0);
-  width: 150px;
-  margin: 3px;
-  text-align: center;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 30px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {
-  background-color: white;
-  color: green;
-  
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-.dropdown:hover .dropbtn {
-  background-color: #ffffff;
-  color: green;
 }
