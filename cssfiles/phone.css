@@ -26,6 +26,19 @@ td, th {
     text-align: left;
     padding: 4px;
   }
+img{
+    width: 267px;
+    height: 267px;
+
+}
+/* for happybday */
+#hp{
+    width: 250px;
+    border: 10px solid rgb(129, 3, 34);
+    border-radius: 230px;
+      height: 250px;
+    margin-left: 0px;
+  }
   /* for no data image */
 
 /*body {
