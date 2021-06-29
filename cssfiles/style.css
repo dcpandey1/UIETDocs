@@ -350,3 +350,10 @@ tr{
 #haid{
     background-color: rgb(7, 105, 105);
 }
+ 
+/* for no data image */
+#nodata {
+  height: 250px;
+  width: 400px;
+  /* margin-left: 280px; */
+}
