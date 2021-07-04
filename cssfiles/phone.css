@@ -26,11 +26,11 @@ td, th {
     text-align: left;
     padding: 4px;
   }
-/* img{
-    width: 262px;
+img{
+    /* width: 262px; */
     height: 262px;
 
-} */
+}
 /* for happybday */
 #hp{
     width: 250px;
