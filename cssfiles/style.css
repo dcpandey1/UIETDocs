@@ -132,7 +132,8 @@ div.desc {
 }
 
 iframe {
-    float: right;
+    display: block;
+    margin: 0 auto;
 }
 
 a {
