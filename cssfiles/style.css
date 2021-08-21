@@ -464,3 +464,11 @@ em {
 i {
     color: cyan;
 }
+/* .Dp{
+    background:url(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) no-repeat left center;
+    padding-left:100px;
+    margin-left: 400px;
+    } */
+    .emoji {
+        display: inline;
+      }
