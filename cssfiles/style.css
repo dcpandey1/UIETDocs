@@ -481,7 +481,7 @@ i {
     clear: both;
     display: table;
   }
-  .Snap {
+  div.gallery a {
     background-color: rgb(128, 0, 0);
     margin: 3px;
     border: 1px solid #ccc;
