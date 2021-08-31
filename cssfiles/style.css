@@ -481,4 +481,15 @@ i {
     clear: both;
     display: table;
   }
-  
+  .Snap {
+    background-color: rgb(128, 0, 0);
+    margin: 3px;
+    border: 1px solid #ccc;
+    border-radius: 500px;
+    float: left;
+    width: 180px;
+    text-align: center;
+    padding:10px;
+    /* padding-left: 400px; */
+    
+}
