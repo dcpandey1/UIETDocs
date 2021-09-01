@@ -48,3 +48,9 @@ img{
   /* width: 33.33%; */
   padding: 5px;
 }
+iframe {
+  display: block;
+  margin: 0 auto;
+  height: 240px;
+  width: 240px;
+}
