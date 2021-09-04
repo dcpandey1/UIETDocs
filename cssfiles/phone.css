@@ -54,3 +54,16 @@ iframe {
   height: 230px;
   width: 230px;
 }
+.cont{
+  background-color: #FEFFED;
+  padding: 3px 35px;
+  margin: -10px -50px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+}
+
+#contact h2 {
+  margin: 0 0px 15px 0px;
+  color: rgb(14, 7, 7);
+  font-weight: 500
+}
