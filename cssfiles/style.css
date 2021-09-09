@@ -100,6 +100,8 @@ body {
     font-size: 100%;
     line-height: 1.5;
     text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 div.gallery a {
@@ -712,4 +714,8 @@ body {
         width: 100%;
         text-align: left;
     }
+}
+
+#book{
+    text-align: center;
 }
