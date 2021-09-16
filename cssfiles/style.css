@@ -95,7 +95,6 @@ input[type=button]:hover {
 
 body {
     scroll-behavior: smooth;
-   
     background-color: black;
     color: white;
     font-size: 100%;
@@ -151,7 +150,7 @@ a:visited {
 
 a:hover,
 a:active {
-    background-color: #CF5C3F;
+    background-color: #00000000;
     color: #fff;
 }
 
@@ -415,8 +414,13 @@ img {
     height: 350px;
 }
 
+
 /*  */
+
+
 /* For Birthdays */
+
+
 /*  */
 
 #hp {
@@ -427,8 +431,13 @@ img {
     margin-left: 230px;
 }
 
+
 /*  */
+
+
 /* For Contributer table */
+
+
 /*  */
 
 table {
@@ -469,27 +478,36 @@ em {
 i {
     color: cyan;
 }
+
+
 /*  */
+
+
 /* for photo gallery */
+
+
 /*  */
 
 * {
     box-sizing: border-box;
-  }
-  
-  .column {
+}
+
+.column {
     float: left;
     width: 33.33%;
     padding: 5px;
-  }
-  
-  /* Clearfix (clear floats) */
-  .row::after {
+}
+
+
+/* Clearfix (clear floats) */
+
+.row::after {
     content: "";
     clear: both;
     display: table;
-  }
-  div.gallery a {
+}
+
+div.gallery a {
     background-color: rgb(128, 0, 0);
     margin: 3px;
     border: 1px solid #ccc;
@@ -497,23 +515,31 @@ i {
     float: left;
     width: 180px;
     text-align: center;
-    padding:10px;
-   
-    
+    padding: 10px;
 }
+
+
 /*  */
+
+
 /*  */
+
+
 /* for contact form */
-/*  */
+
+
 /*  */
 
-contact{
 
-padding: 30px 15px;
-    background: rgb(128,0,0);
+/*  */
+
+contact {
+    padding: 30px 15px;
+    background: rgb(128, 0, 0);
     text-align: center
 }
-.cont{
+
+.cont {
     background-color: rgb(red, green, blue);
     padding: 1px 35px;
     margin: -10px -50px;
@@ -540,7 +566,7 @@ padding: 30px 15px;
     border-radius: 4px;
     border: none;
     margin-bottom: 10px;
-    background: rgb(128,0,0);
+    background: rgb(128, 0, 0);
     color: #fff;
     transition: .5s ease all
 }
@@ -594,10 +620,20 @@ padding: 30px 15px;
 #contact-form button:hover {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23)
 }
+
+
 /*  */
+
+
 /*  */
+
+
 /* New dropdown navbar CSS */
+
+
 /*  */
+
+
 /*  */
 
 body {
@@ -606,7 +642,6 @@ body {
 }
 
 .topnav {
-
     overflow: hidden;
     background-color: rgb(128, 0, 0);
     border-radius: 5px;
@@ -641,7 +676,7 @@ body {
 
 .dropdown .dropbtn {
     font-size: 17px;
-  border: none;
+    border: none;
     outline: none;
     color: white;
     padding: 17px 25px;
@@ -687,12 +722,10 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-
     .topnav a:not(:first-child),
     .dropdown .dropbtn {
         display: none;
     }
-
     .topnav a.icon {
         float: right;
         display: block;
@@ -703,27 +736,22 @@ body {
     .topnav.responsive {
         position: relative;
     }
-
     .topnav.responsive .icon {
         position: absolute;
         right: 0;
         top: 0;
     }
-
     .topnav.responsive a {
         float: none;
         display: block;
         text-align: left;
     }
-
     .topnav.responsive .dropdown {
         float: none;
     }
-
     .topnav.responsive .dropdown-content {
         position: relative;
     }
-
     .topnav.responsive .dropdown .dropbtn {
         display: block;
         width: 100%;
@@ -731,12 +759,11 @@ body {
     }
 }
 
-#book{
+#book {
     text-align: center;
 }
 
-#m1
-{
+#m1 {
     width: 450px;
     border: 10px solid rgb(128, 0, 0);
     border-radius: 230px;
