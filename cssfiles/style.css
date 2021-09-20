@@ -549,6 +549,9 @@ contact {
 
 #contact h2 {
     margin: 0 222px 15px 222px;
+    margin-left: 288px;
+    margin-right: 288px;
+    /* margin-right: 50%; */
     color: rgb(14, 7, 7);
     font-weight: 500
 }
