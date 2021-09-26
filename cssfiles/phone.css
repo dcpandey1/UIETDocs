@@ -90,3 +90,16 @@ iframe {
 #footericondiv {
     margin-left: 21.7%;
 }
+
+
+/*for alumni sectionand for alumni*/
+
+.column {
+    background-color: rgb(20, 1, 1);
+    width: 85.93%;
+    padding: 3px;
+    height: 180px;
+    border: 2px solid white;
+    box-shadow: 10px 10px 10px 5px rgba(255, 0, 0, 0.589);
+    margin: 25px;
+}
