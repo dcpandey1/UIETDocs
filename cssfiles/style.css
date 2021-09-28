@@ -753,12 +753,17 @@
     
     .column {
         float: left;
-        width: 16.00%;
+        width: 190px;
         padding: 3px;
-        height: 190px;
-        border: 2px solid white;
-        box-shadow: 10px 10px 10px 5px rgba(255, 0, 0, 0.589);
-        margin: 20px;
+        height: 240px;
+        /* border: .1px solid white; */
+        /* box-shadow: 10px 10px 10px 5px rgba(255, 0, 0, 0.589); */
+        margin: 12.281px;
+    }
+    
+    #alumniimage {
+        height: 170px;
+        width: 183px;
     }
     /* Clear floats after the columns */
     
@@ -774,12 +779,9 @@
             width: 100%;
         }
     }
-
     /*for club image*/
-
-    #club
-    {
+    
+    #club {
         border: 1px solid white;
-        height:400px;
-        
+        height: 400px;
     }

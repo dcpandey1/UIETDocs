@@ -33,7 +33,6 @@ th {
 img {
     /* width: 262px; */
     height: 262px;
-    
 }
 
 
@@ -100,7 +99,14 @@ iframe {
     width: 85.93%;
     padding: 3px;
     height: 180px;
-    border: 2px solid white;
-    box-shadow: 10px 10px 10px 5px rgba(255, 0, 0, 0.589);
+    /* border: 2px solid white; */
+    /* box-shadow: 10px 10px 10px 5px rgba(255, 0, 0, 0.589); */
     margin: 25px;
+}
+
+#alumniimage {
+    width: 250px;
+    /* height: 250px; */
+    margin-top: 4px;
+    margin-left: 15px;
 }
