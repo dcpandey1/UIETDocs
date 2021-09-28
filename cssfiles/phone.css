@@ -17,6 +17,17 @@
     /* font-size: 1.5rem; */
 }
 
+div.gallery a {
+    background-color: rgb(128, 0, 0);
+    margin: 3px;
+    border: 1px solid #ccc;
+    border-radius: 500px;
+    float: left;
+    width: 162px;
+    text-align: center;
+    padding: 10px;
+}
+
 .mainheader img {
     width: 45%;
     height: 10%;
