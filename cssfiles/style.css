@@ -95,7 +95,7 @@
     
     body {
         scroll-behavior: smooth;
-        background-color: rgb(20, 1, 1);
+        background-color: rgb(5, 10, 24,97%);
         color: white;
         font-size: 100%;
         line-height: 1.5;
@@ -781,4 +781,9 @@
     }
     /*for club image*/
     
-   
+    #club1
+    {
+        height: 500px;
+        width: 1075px;
+    }
+ 
