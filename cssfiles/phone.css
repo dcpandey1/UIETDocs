@@ -121,3 +121,15 @@ iframe {
     margin-top: 4px;
     margin-left: 15px;
 }
+
+
+/* for about us */
+
+.column3 {
+    float: left;
+    width: 400px;
+    padding: 3px;
+    height: 240px;
+    margin-left: 50px;
+    margin-top: 35px;
+}
