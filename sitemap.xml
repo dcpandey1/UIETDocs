@@ -9,42 +9,52 @@
 
 <url>
   <loc>https://uietdocs.com/</loc>
-  <lastmod>2021-06-26T17:23:37+00:00</lastmod>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://uietdocs.com/notes.html</loc>
-  <lastmod>2021-06-26T17:23:37+00:00</lastmod>
+  <loc>https://uietdocs.com/CSEpapers.html</loc>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://uietdocs.com/papers.html</loc>
-  <lastmod>2021-06-26T17:23:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://uietdocs.com/syllabus.html</loc>
-  <lastmod>2021-06-26T17:23:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://uietdocs.com/files.html</loc>
-  <lastmod>2021-06-26T17:23:37+00:00</lastmod>
+  <loc>https://uietdocs.com/CSEnotes.html</loc>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://uietdocs.com/books.html</loc>
-  <lastmod>2021-06-26T17:23:37+00:00</lastmod>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://uietdocs.com/contribute.html</loc>
-  <lastmod>2021-06-26T17:23:37+00:00</lastmod>
+  <loc>https://uietdocs.com/video.html</loc>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uietdocs.com/collegelife.html</loc>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uietdocs.com/contest.html</loc>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uietdocs.com/alumni.html</loc>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://uietdocs.com/contact.html</loc>
-  <lastmod>2021-06-26T17:23:37+00:00</lastmod>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://uietdocs.com/contribute.html</loc>
+  <lastmod>2021-10-02T14:04:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
